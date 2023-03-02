@@ -1,0 +1,131 @@
+# 阿里系
+host-suffix, alibaba.com, direct
+host-suffix, alicdn.com, direct
+host-suffix, alikunlun.com, direct
+host-suffix, alipay.com, direct
+host-suffix, alipayobjects.com, direct
+host-suffix, amap.com, direct
+host-suffix, autonavi.com, direct
+host-suffix, dingtalk.com, direct
+host-suffix, mxhichina.com, direct
+host-suffix, soku.com, direct
+host-suffix, taobao.com, direct
+host-suffix, tmall.com, direct
+host-suffix, tmall.hk, direct
+host-suffix, ykimg.com, direct
+host-suffix, youku.com, direct
+host-suffix, xiami.com, direct
+host-suffix, xiami.net, direct
+host-suffix, aliyuncs.com, direct
+# 百度
+host-suffix, baidu.com, direct
+host-suffix, baidubcr.com, direct
+host-suffix, bdstatic.com, direct
+host-suffix, yunjiasu-cdn.net, direct
+# bilibili
+host-suffix, acgvideo.com, direct
+host-suffix, acg.tv, direct
+host-suffix, b23.tv, direct
+host-suffix, biliapi.com, direct
+host-suffix, biliapi.net, direct
+host-suffix, bilibili.com, direct
+host-suffix, bilibili.tv, direct
+host-suffix, hdslb.com, direct
+host-suffix, bilivideo.com, direct
+host-suffix, biligame.com, direct
+host-suffix, biligame.net, direct
+host-suffix, smtcdns.net, direct
+host-suffix, im9.com, direct
+# 字节跳动
+host-suffix, feiliao.com, direct
+host-suffix, pstatp.com, direct
+host-suffix, snssdk.com, direct
+host-suffix, iesdouyin.com, direct
+host-suffix, toutiao.com, direct
+host-suffix, douyinpic.com, direct
+host-suffix, bytedance.com, direct
+host-suffix, zijieapi.com, direct
+host-suffix, douyinvod.com, direct
+host-suffix, bytegecko.com, direct
+host-suffix, douyinstatic.com, direct
+# 京东
+host-suffix, jd.com, direct
+host-suffix, jd.hk, direct
+host-suffix, jdpay.com, direct
+host-suffix, 360buyimg.com, direct
+# 网易
+host-suffix, 163.com, direct
+host-suffix, 126.net, direct
+host-suffix, 127.net, direct
+host-suffix, 163yun.com, direct
+host-suffix, lofter.com, direct
+host-suffix, netease.com, direct
+host-suffix, ydstatic.com, direct
+# 新浪
+host-suffix, sina.com, direct
+host-suffix, weibo.com, direct
+host-suffix, weibocdn.com, direct
+# 搜狗
+host-suffix, sogo.com, direct
+host-suffix, sogou.com, direct
+host-suffix, sogoucdn.com, direct
+# 腾讯
+host-suffix, gtimg.com, direct
+host-suffix, idqqimg.com, direct
+host-suffix, igamecj.com, direct
+host-suffix, myapp.com, direct
+host-suffix, myqcloud.com, direct
+host-suffix, qq.com, direct
+host-suffix, weixin.com, direct
+host-suffix, tencent.com, direct
+host-suffix, tencent-cloud.net, direct
+host-suffix, servicewechat.com, direct
+# 银行
+host-suffix, abchina.com, direct
+host-suffix, cmbchina.com, direct
+host-suffix, cmbimg.com, direct
+host-suffix, bankcomm.com, direct
+host-suffix, 95516.com, direct
+# 北京通
+host-suffix, systoon.com, direct
+# 滴答清单
+host-suffix, dida365.com, direct
+# 携程
+host-suffix, ctrip.com, direct
+# 斗鱼
+host-suffix, douyu.com, direct
+# 虎牙
+host-suffix, huya.com, direct
+# keep
+host-suffix, keepcdn.com, direct
+host-suffix, gotokeep.com, direct
+# 美团
+host-suffix, meituan.com, direct
+host-suffix, meituan.net, direct
+# 起点
+host-suffix, qidian.com, direct
+host-suffix, sm.ms, direct
+# 天气
+host-suffix, weather.com, direct
+# 知乎
+host-suffix, zhihu.com, direct
+host-suffix, zhimg.com, direct
+# 1password
+host-suffix, 1password.com, direct
+host-suffix, agilebits.com, direct
+host-suffix, 1passwordusercontent.com, direct
+# 瑞幸咖啡
+host-suffix, luckincoffeecdn.com, direct
+host-suffix, lkcoffee.com, direct
+# 亿通行
+host-suffix, ruubypay.com, direct
+# 拼多多
+host-suffix, pinduoduo.com, direct
+host-suffix, pinduoduo.net, direct
+host-suffix, pddpic.com, direct
+# 向日葵
+host-suffix, oray.com, direct
+host-suffix, oray.net, direct
+host-suffix, orayimg.com, direct
+# cn
+host-suffix, cn, direct
